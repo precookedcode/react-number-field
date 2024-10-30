@@ -1,0 +1,15 @@
+{
+  "name": "@precooked/react-number-field",
+  "version": "1.0.0",
+  "description": "Componente reutilizable para proyectos React",
+  "main": "dist/index.js",
+  "types": "dist/index.d.ts",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "tsc"
+  },
+  "author": "Roberto Carraro",
+  "license": "ISC",
+  "dependencies": {},
+  "devDependencies": {}
+}
